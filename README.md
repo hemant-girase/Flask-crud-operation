@@ -1,2 +1,2 @@
 # Flask-crud-operation 
-This is the CRUD opeartion using pyhhon flask framework with SQLAlchemy
+This is the CRUD opeartion using python flask framework with SQLAlchemy
